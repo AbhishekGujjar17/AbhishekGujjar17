@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **depth-sensing cameras using Python**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **problem solving projects**
 
