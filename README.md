@@ -1,5 +1,3 @@
-
-[![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">I'm a Computer Science (Honours) Student and a passionate developer.</h3>
 
